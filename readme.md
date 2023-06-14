@@ -2,7 +2,8 @@
 # Passive IoT Device Works with Energy Harvesting
 ## Description
 This project aims to design a passive watch that can warn blind people of nearby vehicles and pedestrians by vibration. The watch is powered by a solar panel and uses an Arduino ultra-low power processor as the main control chip. The watch employs millimeter wave radar technology to detect vehicles and personnel sensing radar technology to detect pedestrians, achieving comprehensive safety monitoring. The watch has two modes: optional mode and charge mode. In optional mode, the watch vibrates when vehicles and pedestrians are detected approaching from behind or the opposite direction within a certain distance. In charging mode, the watch switches off all sensors to save power and focuses on collecting energy with the solar panel and storing it. Users can switch between the two modes by lifting the solar panel pad.
-![image](https://github.com/yuwenluopie/Passive-watch/assets/88228465/085a3647-1fe4-4971-87d1-478ec4fccd5e)
+![image](https://github.com/yuwenluopie/Passive-watch/assets/88228465/77968019-b789-45c2-8185-2caa3eccc532)
+
 
 The motivation for this project was to overcome the limitations of existing solutions for blind people's travel safety, such as canes, guide dogs or smartphone apps, which are either cumbersome, expensive or require active operation. The project also considers the user's comfort and aesthetics by designing a lightweight and stylish watch that can be worn on any wrist size.
 
